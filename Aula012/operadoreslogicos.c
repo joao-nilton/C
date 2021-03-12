@@ -31,10 +31,12 @@ r = !(x > 2);
 printf("Resultado = %d \n",r);
 
 r = ! (x > 7) && (x > y );
+
 printf("Resultado = %d \n", r);
 
     //system("pause");
     return 0 ;
 
-
+//Adicionando um comentario para ver se o git capta
+//Adicionando um comentario para ver se o git capta 12-03-21
 }
