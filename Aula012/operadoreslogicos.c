@@ -44,3 +44,5 @@ printf("Resultado = %d \n", r);
 //apareceu lá 15032021
 //apareceu lá 16032021
 }
+
+//Estou aqui em 19 de maio de 2021. Vamos continuar?
