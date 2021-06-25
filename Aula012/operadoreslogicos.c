@@ -50,3 +50,4 @@ printf("Resultado = %d \n", r);
 //Estou aqui em 22 de maio de 2021. Vamos continuar?
 //Estou aqui em 24 de maio de 2021. Vamos continuar?
 //Estou aqui em 27 de maio de 2021. Vamos continuar?
+//Estou aqui em 24 de junho de 2021. Vamos continuar?
