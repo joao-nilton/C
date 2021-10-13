@@ -36,3 +36,4 @@ return 0;
 //Estou aqui em 27 de maio de 2021. Vamos continuar?
 //Estou aqui em 25 de junho de 2021. Vamos continuar?
 //Estou aqui em 05 de outubro de 2021. Vamos continuar?
+//Estou aqui em 13 de outubro de 2021. Vamos continuar?
