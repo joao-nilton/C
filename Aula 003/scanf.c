@@ -63,3 +63,4 @@ return 0;
 //Estou aqui em 01 de abril de 2022. Vamos continuar?
 //Estou aqui em 04 de abril de 2022. Vamos continuar?
 //Estou aqui em 05 de abril de 2022. Vamos continuar?
+//Estou aqui em 06 de abril de 2022. Vamos continuar?
